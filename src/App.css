@@ -21,11 +21,11 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: black;
+  color: rgb(0, 0, 0);
 }
 
 .App-link {
-  color: #61dafb;
+  color:rgb(0, 0, 0);
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.clearButton {
+  font-size: 20px;
+  color: white;
+  margin-top: 25px;
+  border-radius: 5px;
+  background-color: #1f1e1e;
+
+}
+
+
